@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 /**
  * @ClassName ChatMsg
  * @Description: 消息实体
- * @Author jiaoshaoshao
+ * @Author Js
  * @Date 2019/11/11
  * @Version V1.0
  **/

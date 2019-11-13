@@ -7,7 +7,7 @@ import java.util.TreeMap;
 
 /**
  * 基本枚举类型，表示消息类型
- * @author Administrator
+ * @author Js
  *
  */
 public enum EnumMsgType implements IntegerValuedEnum {

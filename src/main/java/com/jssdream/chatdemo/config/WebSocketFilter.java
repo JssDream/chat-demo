@@ -20,7 +20,7 @@ import java.net.InetAddress;
 
 /**
  * @ClassName WebSocketFilter
- * @Description: TODO
+ * @Description: websocket过滤器
  * @Author Js
  * @Date 2019/11/11
  * @Version V1.0

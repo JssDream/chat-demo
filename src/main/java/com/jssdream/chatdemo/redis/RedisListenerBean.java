@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @ClassName RedisListenerBean
- * @Description: TODO
+ * @Description: redis监听器
  * @Author Js
  * @Date 2019/11/11
  * @Version V1.0
